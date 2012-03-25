@@ -1,0 +1,55 @@
+
+#container {
+    box-shadow: 0px 2px 14px #000;
+    -moz-box-shadow: 0px 2px 14px #000;
+    -webkit-box-shadow: 0px 2px 14px #000;
+    border-radius: 0 0 3px 3px;
+    -moz-border-radius: 0 0 3px 3px;
+    -webkit-border-radius: 0 0 3px 3px;
+}
+
+#footer {
+    border-radius: 0 0 3px 3px;
+    -moz-border-radius: 0 0 3px 3px;
+    -webkit-border-radius: 0 0 3px 3px;
+}
+    
+#content .client-example {   
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+#first-navbar ul li a {
+    border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    -webkit-border-radius: 3px 3px 0 0;
+}
+
+
+#first-navbar ul li ul a {
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
+#list-area .list-area-active-link a {    
+    text-shadow: 2px 1px #777;
+    -moz-text-shadow: 2px 1px #777;
+    -webkit-text-shadow: 2px 1px #777;
+}
+
+#show-area .show-area-content {
+    border-radius: 4px 0 0 4px;
+    -moz-border-radius: 4px 0 0 4px;
+    -webkit-border-radius: 4px 0 0 4px;
+}
+
+.LPChatBoxMainTable {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    /*box-shadow: 2px 2px 10px #000;*/
+    /*-moz-box-shadow: 2px 2px 10px #000;*/
+    /*-webkit-box-shadow: 2px 2px 10px #000;*/
+}

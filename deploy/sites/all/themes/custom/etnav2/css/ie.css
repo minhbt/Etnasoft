@@ -1,0 +1,111 @@
+* html .clearfix             { height: 1%; } /* IE6 */
+
+*:first-child+html .clearfix { min-height: 1px; } /* IE7 */
+
+#main #second-navbar h1.breadcrumbs-root-page { font-size: 36px; padding: 16px 0 0 24px }
+
+#main #first-navbar .top-level {
+	width: 515px;
+}
+#first-navbar .top-level {
+	width: 515px;
+}
+
+#first-navbar .top-level li a.last {
+	margin-right: 0;
+}
+
+#first-navbar ul li a {
+    white-space: nowrap;
+}
+
+#first-navbar ul .subnav li {
+    width: 180px;
+    vertical-align: bottom;
+    display: inline-block;
+    background: transparent url("../images/black-op.png") repeat;
+}
+
+#first-navbar .subnav .first-level-hover {
+    background: transparent url("../images/drop-down-bullet.png") no-repeat
+}
+
+#first-navbar .subnav .first-level-hover-a {  
+    background: transparent url("../images/white-op.png") repeat;
+}
+
+#first-navbar .subnav .subsubnav {
+    background-color: #fff;
+    /*background: transparent url("../images/white-op.png") repeat*/
+}
+
+#first-navbar .subnav li:hover .subsubnav {
+    background-color: #000;
+    /*background: transparent url("../images/white-op.png") repeat*/
+}
+
+#first-navbar .subnav .subsubnav li:hover {
+    background-image: none;
+}    
+
+#first-navbar .subnav .subsubnav li {
+    width: 168px;
+    background-image: none;
+}
+
+#list-area li {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+#list-area a {
+    background: transparent url("../images/black-op.png") repeat;
+}
+
+#list-area .list-area-hover-link a {
+    background: transparent url("../images/black-op-35.png") repeat;
+}
+
+#list-area .list-area-active-link a {
+    background: transparent url("../images/white-op-35.png") repeat;
+}
+
+#list-area .list-area-active-link[id=item-2] a {
+    background: transparent url("../images/red-op-35.png") repeat;
+}
+#list-area .list-area-active-link[id=item-3] a {
+    background: transparent url("../images/white-op-35.png") repeat;
+}
+#list-area .list-area-active-link[id=item-4] a {
+    background: transparent url("../images/blue-op-35.png") repeat;
+}            
+
+#show-area .show-area-content {
+    background: transparent url("../images/white-op-65.png") repeat
+}
+
+.chat-live-btn {
+   background: #ffffff;
+    border: 1px solid #adadad;
+}
+
+#chat-live-box .chat-box-header h3 {
+   margin-bottom: 0;
+}
+
+.view-news-list .section .submitted {
+   padding-top: 1px;
+   font-size: 13px;
+}
+.exec-team {
+    margin: 0 0 20px;
+}
+
+.exec-team .item {
+    height: auto !important;    
+    margin-bottom: 30px !important;
+}
+
+.view-news-list .submitted {
+    padding-top: 1px !important;
+}

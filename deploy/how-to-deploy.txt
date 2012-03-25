@@ -1,0 +1,3 @@
+- Upload 'sites' to root folder on server 
+- Import etna_db.sql to DB
+- Done! :)

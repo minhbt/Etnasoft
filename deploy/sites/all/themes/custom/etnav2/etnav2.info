@@ -1,0 +1,21 @@
+
+name = ETNA Theme V2
+description = Tabless, two-column theme for EtnaSoftware site.
+core = 6.x
+engine = phptemplate
+
+stylesheets[all][] = css/screen.css
+scripts[] = js/blank.js
+
+regions[first_navbar] = First navbar region
+regions[applet_place] = Place for js animation
+regions[applet_list] = Place for applet link block
+regions[single_line_news] = Single line news
+regions[content] = Content
+regions[right] = Right
+regions[after_content] = Place in left column after content
+regions[after_right] = Place in right column after right
+regions[footer_left] = Place for banner in footer
+regions[footer_right] = Place for serach box
+regions[footer_bottom] = Place for copyrights strings
+regions[before_closure] = Before closure for service markup
